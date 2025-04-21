@@ -1,0 +1,404 @@
+AC No.,AC Name,District
+1,Behat,Saharanpur
+2,Nakur,Saharanpur
+3,Saharanpur Nagar,Saharanpur
+4,Saharanpur,Saharanpur
+5,Deoband,Saharanpur
+6,Rampur Maniharan,Saharanpur
+7,Gangoh,Saharanpur
+8,Kairana,Muzaffarnagar
+9,Thana Bhawan,Muzaffarnagar
+10,Shamli,Muzaffarnagar
+11,Budhana,Muzaffarnagar
+12,Charthawal,Muzaffarnagar
+13,Purqazi,Muzaffarnagar
+14,Muzaffar Nagar,Muzaffarnagar
+15,Khatauli,Muzaffarnagar
+16,Meerapur,Muzaffarnagar
+17,Najibabad,Bijnor
+18,Nagina,Bijnor
+19,Barhapur,Bijnor
+20,Dhampur,Bijnor
+21,Nehtaur,Bijnor
+22,Bijnor,Bijnor
+23,Chandpur,Bijnor
+24,Noorpur,Bijnor
+25,Kanth,Moradabad
+26,Thakurdwara,Moradabad
+27,Moradabad Rural,Moradabad
+28,Moradabad Nagar,Moradabad
+29,Kundarki,Moradabad
+30,Bilari,Moradabad
+31,Chandausi,Moradabad
+32,Asmoli,Moradabad
+33,Sambhal,Moradabad
+34,Suar,Rampur
+35,Chamraua,Rampur
+36,Bilaspur,Rampur
+37,Rampur,Rampur
+38,Milak,Rampur
+39,Dhanaura,Jyotiba Phule Nagar
+40,Naugawan Sadat,Jyotiba Phule Nagar
+41,Amroha,Jyotiba Phule Nagar
+42,Hasanpur,Jyotiba Phule Nagar
+43,Siwalkhas,Meerut
+44,Sardhana,Meerut
+45,Hastinapur,Meerut
+46,Kithore,Meerut
+47,Meerut Cantt.,Meerut
+48,Meerut,Meerut
+49,Meerut South,Meerut
+50,Chhaprauli,Baghpat
+51,Baraut,Baghpat
+52,Baghpat,Baghpat
+53,Loni,Ghaziabad
+54,Muradnagar,Ghaziabad
+55,Sahibabad,Ghaziabad
+56,Ghaziabad,Ghaziabad
+57,Modi Nagar,Ghaziabad
+58,Dhaulana,Ghaziabad
+59,Hapur,Ghaziabad
+60,Garhmukteshwar,Ghaziabad
+61,Noida,Gautam Buddha Nagar
+62,Dadri,Gautam Buddha Nagar
+63,Jewar,Gautam Buddha Nagar
+64,Sikandrabad,Bulandshahar
+65,Bulandshahr,Bulandshahar
+66,Syana,Bulandshahar
+67,Anupshahr,Bulandshahar
+68,Debai,Bulandshahar
+69,Shikarpur,Bulandshahar
+70,Khurja,Bulandshahar
+71,Khair,Aligarh
+72,Barauli,Aligarh
+73,Atrauli,Aligarh
+74,Chharra,Aligarh
+75,Koil,Aligarh
+76,Aligarh,Aligarh
+77,Iglas,Aligarh
+78,Hathras,Mahamaya Nagar
+79,Sadabad,Mahamaya Nagar
+80,Sikandra Rao,Mahamaya Nagar
+81,Chhata,Mathura
+82,Mant,Mathura
+83,Goverdhan,Mathura
+84,Mathura,Mathura
+85,Baldev,Mathura
+86,Etmadpur,Agra
+87,Agra Cantt.,Agra
+88,Agra South,Agra
+89,Agra North,Agra
+90,Agra Rural,Agra
+91,Fatehpur Sikri,Agra
+92,Kheragarh,Agra
+93,Fatehabad,Agra
+94,Bah,Agra
+95,Tundla,Firozabad
+96,Jasrana,Firozabad
+97,Firozabad,Firozabad
+98,Shikohabad,Firozabad
+99,Sirsaganj,Firozabad
+100,Kasganj,Etah
+101,Amanpur,Etah
+102,Patiyali,Etah
+103,Aliganj,Etah
+104,Etah,Etah
+105,Marhara,Etah
+106,Jalesar,Etah
+107,Mainpuri,Mainpuri
+108,Bhongaon,Mainpuri
+109,Kishni,Mainpuri
+110,Karhal,Mainpuri
+111,Gunnaur,Budaun
+112,Bisauli,Budaun
+113,Sahaswan,Budaun
+114,Bilsi,Budaun
+115,Badaun,Budaun
+116,Shekhupur,Budaun
+117,Dataganj,Budaun
+118,Baheri,Bareilly
+119,Meerganj,Bareilly
+120,Bhojipura,Bareilly
+121,Nawabganj,Bareilly
+122,Faridpur,Bareilly
+123,Bithari Chainpur,Bareilly
+124,Bareilly,Bareilly
+125,Bareilly Cantt.,Bareilly
+126,Aonla,Bareilly
+127,Pilibhit,Pilibhit
+128,Barkhera,Pilibhit
+129,Puranpur,Pilibhit
+130,Bisalpur,Pilibhit
+131,Katra,Shahjahanpur
+132,Jalalabad,Shahjahanpur
+133,Tilhar,Shahjahanpur
+134,Powayan,Shahjahanpur
+135,Shahjahanpur,Shahjahanpur
+136,Dadraul,Shahjahanpur
+137,Palia,Kheri
+138,Nighasan,Kheri
+139,Gola Gokrannath,Kheri
+140,Sri Nagar,Kheri
+141,Dhaurahra,Kheri
+142,Lakhimpur,Kheri
+143,Kasta,Kheri
+144,Mohammdi,Kheri
+145,Maholi,Sitapur
+146,Sitapur,Sitapur
+147,Hargaon,Sitapur
+148,Laharpur,Sitapur
+149,Biswan,Sitapur
+150,Sevata,Sitapur
+151,Mahmoodabad,Sitapur
+152,Sidhauli,Sitapur
+153,Misrikh,Sitapur
+154,Sawayazpur,Hardoi
+155,Shahabad,Hardoi
+156,Hardoi,Hardoi
+157,Gopamau,Hardoi
+158,Sandi,Hardoi
+159,Bilgram-Mallanwan,Hardoi
+160,Balamau,Hardoi
+161,Sandila,Hardoi
+162,Bangermau,Unnao
+163,Safipur,Unnao
+164,Mohan,Unnao
+165,Unnao,Unnao
+166,Bhagwantnagar,Unnao
+167,Purwa,Unnao
+168,Malihabad,Lucknow
+169,Bakshi Kaa Talab,Lucknow
+170,Sarojini Nagar,Lucknow
+171,Lucknow West,Lucknow
+172,Lucknow North,Lucknow
+173,Lucknow East,Lucknow
+174,Lucknow Central,Lucknow
+175,Lucknow Cantt.,Lucknow
+176,Mohanlalganj,Lucknow
+177,Bachhrawan,Rae Bareli
+178,Tiloi,Rae Bareli
+179,Harchandpur,Rae Bareli
+180,Rae Bareli,Rae Bareli
+181,Salon,Rae Bareli
+182,Sareni,Rae Bareli
+183,Unchahar,Rae Bareli
+184,Jagdishpur,Sultanpur
+185,Gauriganj,Sultanpur
+186,Amethi,Sultanpur
+187,Isauli,Sultanpur
+188,Sultanpur,Sultanpur
+189,Sadar,Sultanpur
+190,Lambhua,Sultanpur
+191,Kadipur,Sultanpur
+192,Kaimganj,Farrukhabad
+193,Amritpur,Farrukhabad
+194,Farrukhabad,Farrukhabad
+195,Bhojpur,Farrukhabad
+196,Chhibramau,Kannauj
+197,Tirwa,Kannauj
+198,Kannauj,Kannauj
+199,Jaswantnagar,Etawah
+200,Etawah,Etawah
+201,Bharthana,Etawah
+202,Bidhuna,Auraiya
+203,Dibiyapur,Auraiya
+204,Auraiya,Auraiya
+205,Rasulabad,Kanpur Dehat
+206,Akbarpur - Raniya,Kanpur Dehat
+207,Sikandra,Kanpur Dehat
+208,Bhognipur,Kanpur Dehat
+209,Bilhaur,Kanpur Nagar
+210,Bithoor,Kanpur Nagar
+211,Kalyanpur,Kanpur Nagar
+212,Govindnagar,Kanpur Nagar
+213,Sishamau,Kanpur Nagar
+214,Arya Nagar,Kanpur Nagar
+215,Kidwai Nagar,Kanpur Nagar
+216,Kanpur Cantt.,Kanpur Nagar
+217,Maharajpur,Kanpur Nagar
+218,Ghatampur,Kanpur Nagar
+219,Madhaugarh,Jalaun
+220,Kalpi,Jalaun
+221,Orai,Jalaun
+222,Babina,Jhansi
+223,Jhansi Nagar,Jhansi
+224,Mauranipur,Jhansi
+225,Garautha,Jhansi
+226,Lalitpur,Lalitpur
+227,Mehroni,Lalitpur
+228,Hamirpur,Hamirpur
+229,Rath,Hamirpur
+230,Mahoba,Mahoba
+231,Charkhari,Mahoba
+232,Tindwari,Banda
+233,Baberu,Banda
+234,Naraini,Banda
+235,Banda,Banda
+236,Chitrakoot,Chitrakoot
+237,Manikpur,Chitrakoot
+238,Jahanabad,Fatehpur
+239,Bindki,Fatehpur
+240,Fatehpur,Fatehpur
+241,Ayah Shah,Fatehpur
+242,Husainganj,Fatehpur
+243,Khaga,Fatehpur
+244,Rampur Khas,Pratapgarh
+245,Babaganj,Pratapgarh
+246,Kunda,Pratapgarh
+247,Vishwanath Ganj,Pratapgarh
+248,Pratapgarh,Pratapgarh
+249,Patti,Pratapgarh
+250,Raniganj,Pratapgarh
+251,Sirathu,Kaushambi
+252,Manjhanpur,Kaushambi
+253,Chail,Kaushambi
+254,Phaphamau,Allahabad
+255,Soraon,Allahabad
+256,Phulpur,Allahabad
+257,Pratappur,Allahabad
+258,Handia,Allahabad
+259,Meja,Allahabad
+260,Karachhana,Allahabad
+261,Allahabad West,Allahabad
+262,Allahabad North,Allahabad
+263,Allahabad South,Allahabad
+264,Bara,Allahabad
+265,Koraon,Allahabad
+266,Kursi,Barabanki
+267,Ram Nagar,Barabanki
+268,Barabanki,Barabanki
+269,Zaidpur,Barabanki
+270,Dariyabad,Barabanki
+271,Rudauli,Barabanki
+272,Haidergarh,Barabanki
+273,Milkipur,Faizabad
+274,Bikapur,Faizabad
+275,Ayodhya,Faizabad
+276,Goshainganj,Faizabad
+277,Katehari,Ambedkar Nagar
+278,Tanda,Ambedkar Nagar
+279,Alapur,Ambedkar Nagar
+280,Jalalpur,Ambedkar Nagar
+281,Akbarpur,Ambedkar Nagar
+282,Balha,Bahraich
+283,Nanpara,Bahraich
+284,Matera,Bahraich
+285,Mahasi,Bahraich
+286,Bahraich,Bahraich
+287,Payagpur,Bahraich
+288,Kaiserganj,Bahraich
+289,Bhinga,Shrawasti
+290,Shrawasti,Shrawasti
+291,Tulsipur,Balrampur
+292,Gainsari,Balrampur
+293,Utraula,Balrampur
+294,Balrampur,Balrampur
+295,Mehnaun,Gonda
+296,Gonda,Gonda
+297,Katra Bazar,Gonda
+298,Colonelganj,Gonda
+299,Tarabganj,Gonda
+300,Mankapur,Gonda
+301,Gaura,Gonda
+302,Shohratgarh,Siddharthnagar
+303,Kapilvastu,Siddharthnagar
+304,Bansi,Siddharthnagar
+305,Itwa,Siddharthnagar
+306,Domariyaganj,Siddharthnagar
+307,Harraiya,Basti
+308,Kaptanganj,Basti
+309,Rudhauli,Basti
+310,Basti Sadar,Basti
+311,Mahadewa,Basti
+312,Menhdawal,S. Kabir Nagar
+313,Khalilabad,S. Kabir Nagar
+314,Dhanghata,S. Kabir Nagar
+315,Pharenda,Maharajganj
+316,Nautanwa,Maharajganj
+317,Siswa,Maharajganj
+318,Maharajganj,Maharajganj
+319,Paniyra,Maharajganj
+320,Caimpiyarganj,Gorakhpur
+321,Pipraich,Gorakhpur
+322,Gorakhpur Urban,Gorakhpur
+323,Gorakhpur Rural,Gorakhpur
+324,Sahajanwa,Gorakhpur
+325,Khajani,Gorakhpur
+326,Chauri-Chaura,Gorakhpur
+327,Bansgaon,Gorakhpur
+328,Chillupar,Gorakhpur
+329,Khadda,Kushinagar
+330,Padrauna,Kushinagar
+331,Tamkuhi Raj,Kushinagar
+332,Fazilnagar,Kushinagar
+333,Kushinagar,Kushinagar
+334,Hata,Kushinagar
+335,Ramkola,Kushinagar
+336,Rudrapur,Deoria
+337,Deoria,Deoria
+338,Pathardeva,Deoria
+339,Rampur Karkhana,Deoria
+340,Bhatpar Rani,Deoria
+341,Salempur,Deoria
+342,Barhaj,Deoria
+343,Atrauliya,Azamgarh
+344,Gopalpur,Azamgarh
+345,Sagri,Azamgarh
+346,Mubarakpur,Azamgarh
+347,Azamgarh,Azamgarh
+348,Nizamabad,Azamgarh
+349,Phoolpur-Pawai,Azamgarh
+350,Didarganj,Azamgarh
+351,Lalganj,Azamgarh
+352,Mehnagar,Azamgarh
+353,Madhuban,Mau
+354,Ghosi,Mau
+355,Muhammadabad-Gohna,Mau
+356,Mau,Mau
+357,Belthara Road,Ballia
+358,Rasara,Ballia
+359,Sikanderpur,Ballia
+360,Phephana,Ballia
+361,Ballia Nagar,Ballia
+362,Bansdih,Ballia
+363,Bairia,Ballia
+364,Badlapur,Jaunpur
+365,Shahganj,Jaunpur
+366,Jaunpur,Jaunpur
+367,Malhani,Jaunpur
+368,Mungra Badshahpur,Jaunpur
+369,Machhlishahr,Jaunpur
+370,Mariyahu,Jaunpur
+371,Zafrabad,Jaunpur
+372,Kerakat,Jaunpur
+373,Jakhanian,Ghazipur
+374,Saidpur,Ghazipur
+375,Ghazipur,Ghazipur
+376,Jangipur,Ghazipur
+377,Zahoorabad,Ghazipur
+378,Mohammadabad,Ghazipur
+379,Zamania,Ghazipur
+380,Mughalsarai,Chandauli
+381,Sakaldiha,Chandauli
+382,Saiyadraja,Chandauli
+383,Chakia,Chandauli
+384,Pindra,Varanasi
+385,Ajagara,Varanasi
+386,Shivpur,Varanasi
+387,Rohaniya,Varanasi
+388,Varanasi North,Varanasi
+389,Varanasi South,Varanasi
+390,Varanasi Cantt.,Varanasi
+391,Sevapuri,Varanasi
+392,Bhadohi,S.R.Nagar(Bhadohi)
+393,Gyanpur,S.R.Nagar(Bhadohi)
+394,Aurai,S.R.Nagar(Bhadohi)
+395,Chhanbey,Mirzapur
+396,Mirzapur,Mirzapur
+397,Majhawan,Mirzapur
+398,Chunar,Mirzapur
+399,Marihan,Mirzapur
+400,Ghorawal,Sonbhadra
+401,Robertsganj,Sonbhadra
+402,Obra,Sonbhadra
+403,Duddhi,Sonbhadra
